@@ -1,0 +1,95 @@
+2026-01-09 19:45:49,567 - __main__ - INFO - Analysis service started
+2026-01-09 19:51:59,479 - __main__ - INFO - Analysis service started
+2026-01-09 19:54:54,833 - __main__ - INFO - Processing analysis for AAPL, amount 1000.0
+2026-01-09 19:54:54,836 - data_loader - INFO - Loading data for AAPL from 2024-01-10 to 2026-01-09
+2026-01-09 19:54:56,835 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-09 19:54:56,835 - model_trainer - INFO - Training multiple models...
+2026-01-09 19:54:56,928 - model_trainer - INFO - Random Forest: RMSE=24.2805, MAPE=0.0775
+2026-01-09 19:54:56,933 - model_trainer - INFO - Ridge Regression: RMSE=5.5644, MAPE=0.0156
+2026-01-09 19:54:56,987 - model_trainer - INFO - ARIMA: RMSE=30.9522, MAPE=0.1001
+2026-01-09 19:54:57,094 - model_trainer - INFO - Exponential Smoothing: RMSE=24.8268, MAPE=0.0799
+2026-01-09 19:54:57,095 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5644
+2026-01-09 19:54:57,196 - __main__ - INFO - Task completed for user 6201682614
+2026-01-09 19:58:14,657 - __main__ - INFO - Analysis service started
+2026-01-09 19:58:47,279 - __main__ - INFO - Processing analysis for AAPL, amount 1000.0
+2026-01-09 19:58:47,279 - data_loader - INFO - Loading data for AAPL from 2024-01-10 to 2026-01-09
+2026-01-09 19:58:48,837 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-09 19:58:48,838 - model_trainer - INFO - Training multiple models...
+2026-01-09 19:58:48,924 - model_trainer - INFO - Random Forest: RMSE=24.2805, MAPE=0.0775
+2026-01-09 19:58:48,927 - model_trainer - INFO - Ridge Regression: RMSE=5.5644, MAPE=0.0156
+2026-01-09 19:58:48,974 - model_trainer - INFO - ARIMA: RMSE=30.9523, MAPE=0.1001
+2026-01-09 19:58:49,084 - model_trainer - INFO - Exponential Smoothing: RMSE=24.8241, MAPE=0.0799
+2026-01-09 19:58:49,084 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5644
+2026-01-09 19:58:49,197 - __main__ - INFO - Task completed for user 6201682614
+2026-01-09 20:02:47,765 - __main__ - INFO - Processing analysis for AAPL, amount 1000.0
+2026-01-09 20:02:47,766 - data_loader - INFO - Loading data for AAPL from 2024-01-10 to 2026-01-09
+2026-01-09 20:02:47,780 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-09 20:02:47,780 - model_trainer - INFO - Training multiple models...
+2026-01-09 20:02:47,872 - model_trainer - INFO - Random Forest: RMSE=24.2805, MAPE=0.0775
+2026-01-09 20:02:47,876 - model_trainer - INFO - Ridge Regression: RMSE=5.5644, MAPE=0.0156
+2026-01-09 20:02:47,920 - model_trainer - INFO - ARIMA: RMSE=30.9523, MAPE=0.1001
+2026-01-09 20:02:48,024 - model_trainer - INFO - Exponential Smoothing: RMSE=24.8241, MAPE=0.0799
+2026-01-09 20:02:48,024 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5644
+2026-01-09 20:02:48,124 - __main__ - INFO - Task completed for user 6201682614
+2026-01-09 20:27:21,276 - __main__ - INFO - Processing analysis for AAPL, amount 1000.0
+2026-01-09 20:27:21,277 - data_loader - INFO - Loading data for AAPL from 2024-01-10 to 2026-01-09
+2026-01-09 20:27:21,291 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-09 20:27:21,292 - model_trainer - INFO - Training multiple models...
+2026-01-09 20:27:21,389 - model_trainer - INFO - Random Forest: RMSE=24.2805, MAPE=0.0775
+2026-01-09 20:27:21,393 - model_trainer - INFO - Ridge Regression: RMSE=5.5644, MAPE=0.0156
+2026-01-09 20:27:21,429 - model_trainer - INFO - ARIMA: RMSE=30.9523, MAPE=0.1001
+2026-01-09 20:27:21,525 - model_trainer - INFO - Exponential Smoothing: RMSE=24.8241, MAPE=0.0799
+2026-01-09 20:27:21,525 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5644
+2026-01-09 20:27:21,608 - __main__ - INFO - Task completed for user 6199680108
+2026-01-10 07:20:47,452 - __main__ - INFO - Processing analysis for AAPL, amount 5000.0
+2026-01-10 07:20:47,455 - data_loader - INFO - Loading data for AAPL from 2024-01-11 to 2026-01-10
+2026-01-10 07:20:48,003 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-10 07:20:48,003 - model_trainer - INFO - Training multiple models...
+2026-01-10 07:20:48,104 - model_trainer - INFO - Random Forest: RMSE=25.0260, MAPE=0.0799
+2026-01-10 07:20:48,108 - model_trainer - INFO - Ridge Regression: RMSE=5.5678, MAPE=0.0156
+2026-01-10 07:20:48,152 - model_trainer - INFO - ARIMA: RMSE=32.7356, MAPE=0.1067
+2026-01-10 07:20:48,259 - model_trainer - INFO - Exponential Smoothing: RMSE=25.4077, MAPE=0.0823
+2026-01-10 07:20:48,259 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5678
+2026-01-10 07:20:48,350 - __main__ - INFO - Task completed for user 6199680108
+2026-01-10 07:28:02,692 - __main__ - INFO - Processing analysis for TSLA, amount 1000.0
+2026-01-10 07:28:02,696 - data_loader - INFO - Loading data for TSLA from 2024-01-11 to 2026-01-10
+2026-01-10 07:28:03,104 - data_loader - INFO - Successfully loaded 501 data points for TSLA
+2026-01-10 07:28:03,105 - model_trainer - INFO - Training multiple models...
+2026-01-10 07:28:03,191 - model_trainer - INFO - Random Forest: RMSE=37.4183, MAPE=0.0665
+2026-01-10 07:28:03,195 - model_trainer - INFO - Ridge Regression: RMSE=16.9868, MAPE=0.0302
+2026-01-10 07:28:03,305 - model_trainer - INFO - ARIMA: RMSE=102.8610, MAPE=0.2126
+2026-01-10 07:28:03,454 - model_trainer - INFO - Exponential Smoothing: RMSE=80.2330, MAPE=0.1642
+2026-01-10 07:28:03,454 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 16.9868
+2026-01-10 07:28:03,553 - __main__ - INFO - Task completed for user 6199680108
+2026-01-10 07:31:08,127 - __main__ - INFO - Analysis service started
+2026-01-10 07:34:04,074 - __main__ - INFO - Processing analysis for GOOGL, amount 3000.0
+2026-01-10 07:34:04,076 - data_loader - INFO - Loading data for GOOGL from 2024-01-11 to 2026-01-10
+2026-01-10 07:34:05,813 - data_loader - INFO - Successfully loaded 501 data points for GOOGL
+2026-01-10 07:34:05,813 - model_trainer - INFO - Training multiple models...
+2026-01-10 07:34:05,906 - model_trainer - INFO - Random Forest: RMSE=81.7800, MAPE=0.2587
+2026-01-10 07:34:05,911 - model_trainer - INFO - Ridge Regression: RMSE=10.2163, MAPE=0.0275
+2026-01-10 07:34:06,030 - model_trainer - INFO - ARIMA: RMSE=77.1364, MAPE=0.2358
+2026-01-10 07:34:06,161 - model_trainer - INFO - Exponential Smoothing: RMSE=65.5790, MAPE=0.1988
+2026-01-10 07:34:06,161 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 10.2163
+2026-01-10 07:34:06,274 - __main__ - INFO - Task completed for user 6199680108
+2026-01-10 07:36:03,520 - __main__ - INFO - Processing analysis for MSFT, amount 1000.0
+2026-01-10 07:36:03,521 - data_loader - INFO - Loading data for MSFT from 2024-01-11 to 2026-01-10
+2026-01-10 07:36:04,039 - data_loader - INFO - Successfully loaded 501 data points for MSFT
+2026-01-10 07:36:04,039 - model_trainer - INFO - Training multiple models...
+2026-01-10 07:36:04,121 - model_trainer - INFO - Random Forest: RMSE=14.0855, MAPE=0.0226
+2026-01-10 07:36:04,125 - model_trainer - INFO - Ridge Regression: RMSE=8.4863, MAPE=0.0140
+2026-01-10 07:36:04,161 - model_trainer - INFO - ARIMA: RMSE=23.9612, MAPE=0.0396
+2026-01-10 07:36:04,273 - model_trainer - INFO - Exponential Smoothing: RMSE=47.6011, MAPE=0.0829
+2026-01-10 07:36:04,274 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 8.4863
+2026-01-10 07:36:04,369 - __main__ - INFO - Task completed for user 6199680108
+2026-01-14 20:44:59,430 - __main__ - INFO - Analysis service started
+2026-01-14 20:48:18,847 - __main__ - INFO - Processing analysis for AAPL, amount 10000.0
+2026-01-14 20:48:18,849 - data_loader - INFO - Loading data for AAPL from 2024-01-15 to 2026-01-14
+2026-01-14 20:48:20,645 - data_loader - INFO - Successfully loaded 501 data points for AAPL
+2026-01-14 20:48:20,645 - model_trainer - INFO - Training multiple models...
+2026-01-14 20:48:20,735 - model_trainer - INFO - Random Forest: RMSE=24.5342, MAPE=0.0791
+2026-01-14 20:48:20,738 - model_trainer - INFO - Ridge Regression: RMSE=5.5475, MAPE=0.0154
+2026-01-14 20:48:20,764 - model_trainer - INFO - ARIMA: RMSE=33.0084, MAPE=0.1090
+2026-01-14 20:48:20,772 - model_trainer - ERROR - Failed to train LSTM: too many values to unpack (expected 3)
+2026-01-14 20:48:20,772 - model_trainer - INFO - Best model: Ridge Regression with RMSE: 5.5475
+2026-01-14 20:48:20,883 - __main__ - INFO - Task completed for user 6201682614

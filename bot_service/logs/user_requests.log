@@ -1,0 +1,8 @@
+{"user_id": 6201682614, "timestamp": "2026-01-09T19:58:53.278603", "ticker": "AAPL", "amount": 1000.0, "best_model": "Ridge Regression", "metric_value": 5.564386500586993, "calculated_profit": 3.9901262824763535}
+{"user_id": 6201682614, "timestamp": "2026-01-09T20:02:51.464887", "ticker": "AAPL", "amount": 1000.0, "best_model": "Ridge Regression", "metric_value": 5.564386500586993, "calculated_profit": 3.9901262824763535}
+{"user_id": 6199680108, "timestamp": "2026-01-09T20:27:22.559824", "ticker": "AAPL", "amount": 1000.0, "best_model": "Ridge Regression", "metric_value": 5.564386500586993, "calculated_profit": 3.9901262824763535}
+{"user_id": 6199680108, "timestamp": "2026-01-10T07:20:50.066499", "ticker": "AAPL", "amount": 5000.0, "best_model": "Ridge Regression", "metric_value": 5.567778725928636, "calculated_profit": -6.2014535648249876}
+{"user_id": 6199680108, "timestamp": "2026-01-10T07:28:04.620066", "ticker": "TSLA", "amount": 1000.0, "best_model": "Ridge Regression", "metric_value": 16.986832704542152, "calculated_profit": 15.586818313786694}
+{"user_id": 6199680108, "timestamp": "2026-01-10T07:34:07.545458", "ticker": "GOOGL", "amount": 3000.0, "best_model": "Ridge Regression", "metric_value": 10.216340471306737, "calculated_profit": -1531.102981688971}
+{"user_id": 6199680108, "timestamp": "2026-01-10T07:36:09.114838", "ticker": "MSFT", "amount": 1000.0, "best_model": "Ridge Regression", "metric_value": 8.486276978971352, "calculated_profit": -116.51579584614149}
+{"user_id": 6201682614, "timestamp": "2026-01-14T20:48:21.521544", "ticker": "AAPL", "amount": 10000.0, "best_model": "Ridge Regression", "metric_value": 5.547505552304554, "calculated_profit": 63.41764447596688}

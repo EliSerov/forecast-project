@@ -1,0 +1,122 @@
+2026-01-09 19:51:58,709 - __main__ - INFO - Bot service started
+2026-01-09 19:51:58,709 - aiogram.dispatcher - INFO - Start polling
+2026-01-09 19:52:02,931 - aiogram.dispatcher - INFO - Run polling for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-09 19:54:33,628 - aiogram.event - INFO - Update id=373022595 is handled. Duration 965 ms by bot id=8322630306
+2026-01-09 19:54:54,833 - __main__ - INFO - Task queued for user 6201682614, ticker AAPL
+2026-01-09 19:54:54,836 - aiogram.event - INFO - Update id=373022596 is handled. Duration 125 ms by bot id=8322630306
+2026-01-09 19:54:58,836 - __main__ - ERROR - Error processing result: Telegram server says - Bad Request: IMAGE_PROCESS_FAILED
+2026-01-09 19:58:07,671 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2026-01-09 19:58:07,672 - aiogram.dispatcher - INFO - Polling stopped for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-09 19:58:07,672 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-09 19:58:13,383 - __main__ - INFO - Bot service started
+2026-01-09 19:58:13,383 - aiogram.dispatcher - INFO - Start polling
+2026-01-09 19:58:14,061 - aiogram.dispatcher - INFO - Run polling for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-09 19:58:34,462 - aiogram.event - INFO - Update id=373022597 is handled. Duration 10330 ms by bot id=8322630306
+2026-01-09 19:58:47,279 - __main__ - INFO - Task queued for user 6201682614, ticker AAPL
+2026-01-09 19:58:47,279 - aiogram.event - INFO - Update id=373022598 is handled. Duration 630 ms by bot id=8322630306
+2026-01-09 20:00:53,750 - aiogram.event - INFO - Update id=373022599 is handled. Duration 971 ms by bot id=8322630306
+2026-01-09 20:00:54,226 - aiogram.event - INFO - Update id=373022600 is handled. Duration 1446 ms by bot id=8322630306
+2026-01-09 20:02:08,909 - aiogram.event - INFO - Update id=373022601 is handled. Duration 114 ms by bot id=8322630306
+2026-01-09 20:02:47,765 - __main__ - INFO - Task queued for user 6201682614, ticker AAPL
+2026-01-09 20:02:47,766 - aiogram.event - INFO - Update id=373022602 is handled. Duration 368 ms by bot id=8322630306
+2026-01-09 20:07:00,326 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-09 20:07:00,327 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 20:07:01,685 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 20:07:02,077 - aiogram.event - INFO - Update id=373022604 is handled. Duration 389 ms by bot id=8322630306
+2026-01-09 20:07:02,316 - aiogram.event - INFO - Update id=373022603 is handled. Duration 630 ms by bot id=8322630306
+2026-01-09 20:27:18,021 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-09 20:27:18,022 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 20:27:19,370 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 20:27:21,277 - __main__ - INFO - Task queued for user 6199680108, ticker AAPL
+2026-01-09 20:27:21,277 - aiogram.event - INFO - Update id=373022605 is handled. Duration 1906 ms by bot id=8322630306
+2026-01-09 20:44:00,858 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-09 20:44:00,858 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 20:47:24,587 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 21:09:32,830 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-09 21:09:32,830 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 21:09:44,584 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 21:24:36,483 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-09 21:24:36,483 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 21:24:38,804 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 21:24:39,395 - aiogram.event - INFO - Update id=373022606 is handled. Duration 590 ms by bot id=8322630306
+2026-01-09 21:24:40,163 - aiogram.event - INFO - Update id=373022607 is handled. Duration 1357 ms by bot id=8322630306
+2026-01-09 22:00:26,974 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-09 22:00:26,975 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 22:19:18,574 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-09 22:37:33,553 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-09 22:37:33,554 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-09 22:37:51,209 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-09 22:37:51,209 - aiogram.dispatcher - WARNING - Sleep for 1.226907 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-09 22:37:57,124 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8322630306)
+2026-01-09 23:31:58,088 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-09 23:31:58,089 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 00:08:29,499 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 00:08:29,499 - aiogram.dispatcher - WARNING - Sleep for 1.159516 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-10 00:54:58,611 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 00:54:58,612 - aiogram.dispatcher - WARNING - Sleep for 1.677976 seconds and try again... (tryings = 2, bot id = 8322630306)
+2026-01-10 00:56:49,677 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 00:56:49,677 - aiogram.dispatcher - WARNING - Sleep for 2.106062 seconds and try again... (tryings = 3, bot id = 8322630306)
+2026-01-10 00:56:58,671 - aiogram.dispatcher - INFO - Connection established (tryings = 4, bot id = 8322630306)
+2026-01-10 01:31:20,590 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 01:31:20,591 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 01:55:24,730 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 01:55:24,730 - aiogram.dispatcher - WARNING - Sleep for 1.302143 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-10 02:15:15,279 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 02:15:15,279 - aiogram.dispatcher - WARNING - Sleep for 1.701953 seconds and try again... (tryings = 2, bot id = 8322630306)
+2026-01-10 02:16:31,027 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 02:16:31,028 - aiogram.dispatcher - WARNING - Sleep for 2.247984 seconds and try again... (tryings = 3, bot id = 8322630306)
+2026-01-10 02:57:12,757 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 02:57:12,758 - aiogram.dispatcher - WARNING - Sleep for 3.077482 seconds and try again... (tryings = 4, bot id = 8322630306)
+2026-01-10 02:59:41,718 - aiogram.dispatcher - INFO - Connection established (tryings = 5, bot id = 8322630306)
+2026-01-10 03:17:03,087 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 03:17:03,087 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 03:33:31,345 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 03:33:31,345 - aiogram.dispatcher - WARNING - Sleep for 1.217318 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-10 04:01:15,534 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 04:01:15,535 - aiogram.dispatcher - WARNING - Sleep for 1.620419 seconds and try again... (tryings = 2, bot id = 8322630306)
+2026-01-10 04:01:27,281 - aiogram.dispatcher - INFO - Connection established (tryings = 3, bot id = 8322630306)
+2026-01-10 04:34:48,794 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 04:34:48,794 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 05:00:14,210 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 05:00:14,211 - aiogram.dispatcher - WARNING - Sleep for 1.438893 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-10 05:17:59,047 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8322630306)
+2026-01-10 05:29:44,855 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-01-10 05:29:44,855 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 05:29:53,789 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-10 06:26:21,969 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 06:26:21,972 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 07:13:25,338 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 07:13:25,339 - aiogram.dispatcher - WARNING - Sleep for 1.137991 seconds and try again... (tryings = 1, bot id = 8322630306)
+2026-01-10 07:13:46,292 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8322630306)
+2026-01-10 07:20:47,453 - __main__ - INFO - Task queued for user 6199680108, ticker AAPL
+2026-01-10 07:20:47,455 - aiogram.event - INFO - Update id=373022609 is handled. Duration 363 ms by bot id=8322630306
+2026-01-10 07:20:51,402 - aiogram.event - INFO - Update id=373022608 is handled. Duration 4311 ms by bot id=8322630306
+2026-01-10 07:25:25,829 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 07:25:25,832 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 07:25:46,753 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-10 07:28:02,693 - __main__ - INFO - Task queued for user 6199680108, ticker TSLA
+2026-01-10 07:28:02,695 - aiogram.event - INFO - Update id=373022610 is handled. Duration 785 ms by bot id=8322630306
+2026-01-10 07:29:39,642 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2026-01-10 07:29:39,643 - aiogram.dispatcher - INFO - Polling stopped for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-10 07:29:39,643 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-10 07:31:06,762 - __main__ - INFO - Bot service started
+2026-01-10 07:31:06,762 - aiogram.dispatcher - INFO - Start polling
+2026-01-10 07:31:07,008 - aiogram.dispatcher - INFO - Run polling for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-10 07:32:38,950 - aiogram.event - INFO - Update id=373022611 is handled. Duration 1770 ms by bot id=8322630306
+2026-01-10 07:32:50,655 - aiogram.event - INFO - Update id=373022612 is handled. Duration 1616 ms by bot id=8322630306
+2026-01-10 07:34:04,073 - __main__ - INFO - Task queued for user 6199680108, ticker GOOGL
+2026-01-10 07:34:04,074 - aiogram.event - INFO - Update id=373022613 is handled. Duration 188 ms by bot id=8322630306
+2026-01-10 07:36:03,520 - __main__ - INFO - Task queued for user 6199680108, ticker MSFT
+2026-01-10 07:36:03,520 - aiogram.event - INFO - Update id=373022614 is handled. Duration 113 ms by bot id=8322630306
+2026-01-10 10:27:42,453 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-10 10:27:42,458 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8322630306)
+2026-01-10 10:27:54,164 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8322630306)
+2026-01-10 10:47:43,317 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2026-01-10 10:47:43,319 - aiogram.dispatcher - INFO - Polling stopped for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-10 10:47:43,319 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-14 20:44:58,020 - __main__ - INFO - Bot service started
+2026-01-14 20:44:58,020 - aiogram.dispatcher - INFO - Start polling
+2026-01-14 20:44:58,189 - aiogram.dispatcher - INFO - Run polling for bot @forecaster_test_bot id=8322630306 - 'Forecaster'
+2026-01-14 20:48:01,424 - aiogram.event - INFO - Update id=373022617 is handled. Duration 171 ms by bot id=8322630306
+2026-01-14 20:48:18,847 - __main__ - INFO - Task queued for user 6201682614, ticker AAPL
+2026-01-14 20:48:18,849 - aiogram.event - INFO - Update id=373022618 is handled. Duration 77 ms by bot id=8322630306
