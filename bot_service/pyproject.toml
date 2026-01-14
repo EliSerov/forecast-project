@@ -1,0 +1,16 @@
+[project]
+name = "bot_service"
+version = "0.1.0"
+description = "Telegram bot service for stock forecasts"
+authors = [
+    { name = "Ilya Serov", email = "email@example.com" },
+]
+dependencies = [
+    "aiogram>=3.0",
+    "redis>=5.0",
+    "matplotlib>=3.5",
+]
+requires-python = ">=3.10"
+
+[project.scripts]
+bot = "src.bot:main"
